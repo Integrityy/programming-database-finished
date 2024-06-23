@@ -1,0 +1,210 @@
+C:\Users\STUDENT.CL2-PC32\Documents\aa1122\WinFormsApp7\WinFormsApp7\bin\Debug\net8.0-windows\WinFormsApp7.exe
+C:\Users\STUDENT.CL2-PC32\Documents\aa1122\WinFormsApp7\WinFormsApp7\bin\Debug\net8.0-windows\WinFormsApp7.deps.json
+C:\Users\STUDENT.CL2-PC32\Documents\aa1122\WinFormsApp7\WinFormsApp7\bin\Debug\net8.0-windows\WinFormsApp7.runtimeconfig.json
+C:\Users\STUDENT.CL2-PC32\Documents\aa1122\WinFormsApp7\WinFormsApp7\bin\Debug\net8.0-windows\WinFormsApp7.dll
+C:\Users\STUDENT.CL2-PC32\Documents\aa1122\WinFormsApp7\WinFormsApp7\bin\Debug\net8.0-windows\WinFormsApp7.pdb
+C:\Users\STUDENT.CL2-PC32\Documents\aa1122\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.Form1.resources
+C:\Users\STUDENT.CL2-PC32\Documents\aa1122\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.Properties.Resources.resources
+C:\Users\STUDENT.CL2-PC32\Documents\aa1122\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.csproj.GenerateResource.cache
+C:\Users\STUDENT.CL2-PC32\Documents\aa1122\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENT.CL2-PC32\Documents\aa1122\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.AssemblyInfoInputs.cache
+C:\Users\STUDENT.CL2-PC32\Documents\aa1122\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.AssemblyInfo.cs
+C:\Users\STUDENT.CL2-PC32\Documents\aa1122\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT.CL2-PC32\Documents\aa1122\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.dll
+C:\Users\STUDENT.CL2-PC32\Documents\aa1122\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\refint\WinFormsApp7.dll
+C:\Users\STUDENT.CL2-PC32\Documents\aa1122\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.pdb
+C:\Users\STUDENT.CL2-PC32\Documents\aa1122\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.genruntimeconfig.cache
+C:\Users\STUDENT.CL2-PC32\Documents\aa1122\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\ref\WinFormsApp7.dll
+C:\Users\STUDENT.CL2-PC32\Documents\aa1122\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.Form2.resources
+C:\Users\STUDENT.CL2-PC32\Documents\aa1122\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.Form3.resources
+C:\Users\STUDENT.CL2-PC32\Documents\aa1122\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.Form4.resources
+C:\Users\ADMIN\Downloads\finals-main\finals-main\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.Arkanoid.resources
+C:\Users\ADMIN\Downloads\finals-main\finals-main\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.Form1.resources
+C:\Users\ADMIN\Downloads\finals-main\finals-main\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.Form2.resources
+C:\Users\ADMIN\Downloads\finals-main\finals-main\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.Form4.resources
+C:\Users\ADMIN\Downloads\finals-main\finals-main\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.Properties.Resources.resources
+C:\Users\ADMIN\Downloads\finals-main\finals-main\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.csproj.GenerateResource.cache
+C:\Users\ADMIN\Downloads\finals-main\finals-main\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Downloads\finals-main\finals-main\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Downloads\finals-main\finals-main\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.AssemblyInfo.cs
+C:\Users\ADMIN\Downloads\finals-main\finals-main\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\finals-main\finals-main\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.dll
+C:\Users\ADMIN\Downloads\finals-main\finals-main\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\refint\WinFormsApp7.dll
+C:\Users\ADMIN\Downloads\finals-main\finals-main\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.pdb
+C:\Users\ADMIN\Downloads\finals-main\finals-main\WinFormsApp7\WinFormsApp7\bin\Debug\net8.0-windows\WinFormsApp7.exe
+C:\Users\ADMIN\Downloads\finals-main\finals-main\WinFormsApp7\WinFormsApp7\bin\Debug\net8.0-windows\WinFormsApp7.deps.json
+C:\Users\ADMIN\Downloads\finals-main\finals-main\WinFormsApp7\WinFormsApp7\bin\Debug\net8.0-windows\WinFormsApp7.runtimeconfig.json
+C:\Users\ADMIN\Downloads\finals-main\finals-main\WinFormsApp7\WinFormsApp7\bin\Debug\net8.0-windows\WinFormsApp7.dll
+C:\Users\ADMIN\Downloads\finals-main\finals-main\WinFormsApp7\WinFormsApp7\bin\Debug\net8.0-windows\WinFormsApp7.pdb
+C:\Users\ADMIN\Downloads\finals-main\finals-main\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.genruntimeconfig.cache
+C:\Users\ADMIN\Downloads\finals-main\finals-main\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\ref\WinFormsApp7.dll
+C:\Users\ADMIN\Downloads\finals-main\finals-main\WinFormsApp7\WinFormsApp7\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\ADMIN\Downloads\finals-main\finals-main\WinFormsApp7\WinFormsApp7\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\ADMIN\Downloads\finals-main\finals-main\WinFormsApp7\WinFormsApp7\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\ADMIN\Downloads\finals-main\finals-main\WinFormsApp7\WinFormsApp7\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\ADMIN\Downloads\finals-main\finals-main\WinFormsApp7\WinFormsApp7\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\ADMIN\Downloads\finals-main\finals-main\WinFormsApp7\WinFormsApp7\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\ADMIN\Downloads\finals-main\finals-main\WinFormsApp7\WinFormsApp7\bin\Debug\net8.0-windows\NuGet.Frameworks.dll
+C:\Users\ADMIN\Downloads\finals-main\finals-main\WinFormsApp7\WinFormsApp7\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\ADMIN\Downloads\finals-main\finals-main\WinFormsApp7\WinFormsApp7\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\ADMIN\Downloads\finals-main\finals-main\WinFormsApp7\WinFormsApp7\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\ADMIN\Downloads\finals-main\finals-main\WinFormsApp7\WinFormsApp7\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\ADMIN\Downloads\finals-main\finals-main\WinFormsApp7\WinFormsApp7\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\ADMIN\Downloads\finals-main\finals-main\WinFormsApp7\WinFormsApp7\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\ADMIN\Downloads\finals-main\finals-main\WinFormsApp7\WinFormsApp7\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\ADMIN\Downloads\finals-main\finals-main\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\finals-main\finals-main\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\WinForms.BA630A35.Up2Date
+C:\Users\ADMIN\Downloads\finals-main\finals-main\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.Register.resources
+C:\Users\STUDENT.CL2-PC32\Downloads\inter-prog-finals-main\inter-prog-finals-main\finals-main\finals-main\WinFormsApp7\WinFormsApp7\bin\Debug\net8.0-windows\WinFormsApp7.exe
+C:\Users\STUDENT.CL2-PC32\Downloads\inter-prog-finals-main\inter-prog-finals-main\finals-main\finals-main\WinFormsApp7\WinFormsApp7\bin\Debug\net8.0-windows\WinFormsApp7.deps.json
+C:\Users\STUDENT.CL2-PC32\Downloads\inter-prog-finals-main\inter-prog-finals-main\finals-main\finals-main\WinFormsApp7\WinFormsApp7\bin\Debug\net8.0-windows\WinFormsApp7.runtimeconfig.json
+C:\Users\STUDENT.CL2-PC32\Downloads\inter-prog-finals-main\inter-prog-finals-main\finals-main\finals-main\WinFormsApp7\WinFormsApp7\bin\Debug\net8.0-windows\WinFormsApp7.dll
+C:\Users\STUDENT.CL2-PC32\Downloads\inter-prog-finals-main\inter-prog-finals-main\finals-main\finals-main\WinFormsApp7\WinFormsApp7\bin\Debug\net8.0-windows\WinFormsApp7.pdb
+C:\Users\STUDENT.CL2-PC32\Downloads\inter-prog-finals-main\inter-prog-finals-main\finals-main\finals-main\WinFormsApp7\WinFormsApp7\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\STUDENT.CL2-PC32\Downloads\inter-prog-finals-main\inter-prog-finals-main\finals-main\finals-main\WinFormsApp7\WinFormsApp7\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\STUDENT.CL2-PC32\Downloads\inter-prog-finals-main\inter-prog-finals-main\finals-main\finals-main\WinFormsApp7\WinFormsApp7\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\STUDENT.CL2-PC32\Downloads\inter-prog-finals-main\inter-prog-finals-main\finals-main\finals-main\WinFormsApp7\WinFormsApp7\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\STUDENT.CL2-PC32\Downloads\inter-prog-finals-main\inter-prog-finals-main\finals-main\finals-main\WinFormsApp7\WinFormsApp7\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\STUDENT.CL2-PC32\Downloads\inter-prog-finals-main\inter-prog-finals-main\finals-main\finals-main\WinFormsApp7\WinFormsApp7\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\STUDENT.CL2-PC32\Downloads\inter-prog-finals-main\inter-prog-finals-main\finals-main\finals-main\WinFormsApp7\WinFormsApp7\bin\Debug\net8.0-windows\NuGet.Frameworks.dll
+C:\Users\STUDENT.CL2-PC32\Downloads\inter-prog-finals-main\inter-prog-finals-main\finals-main\finals-main\WinFormsApp7\WinFormsApp7\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\STUDENT.CL2-PC32\Downloads\inter-prog-finals-main\inter-prog-finals-main\finals-main\finals-main\WinFormsApp7\WinFormsApp7\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\STUDENT.CL2-PC32\Downloads\inter-prog-finals-main\inter-prog-finals-main\finals-main\finals-main\WinFormsApp7\WinFormsApp7\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\STUDENT.CL2-PC32\Downloads\inter-prog-finals-main\inter-prog-finals-main\finals-main\finals-main\WinFormsApp7\WinFormsApp7\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\STUDENT.CL2-PC32\Downloads\inter-prog-finals-main\inter-prog-finals-main\finals-main\finals-main\WinFormsApp7\WinFormsApp7\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\STUDENT.CL2-PC32\Downloads\inter-prog-finals-main\inter-prog-finals-main\finals-main\finals-main\WinFormsApp7\WinFormsApp7\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\STUDENT.CL2-PC32\Downloads\inter-prog-finals-main\inter-prog-finals-main\finals-main\finals-main\WinFormsApp7\WinFormsApp7\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\STUDENT.CL2-PC32\Downloads\inter-prog-finals-main\inter-prog-finals-main\finals-main\finals-main\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.csproj.AssemblyReference.cache
+C:\Users\STUDENT.CL2-PC32\Downloads\inter-prog-finals-main\inter-prog-finals-main\finals-main\finals-main\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.Arkanoid.resources
+C:\Users\STUDENT.CL2-PC32\Downloads\inter-prog-finals-main\inter-prog-finals-main\finals-main\finals-main\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.Form1.resources
+C:\Users\STUDENT.CL2-PC32\Downloads\inter-prog-finals-main\inter-prog-finals-main\finals-main\finals-main\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.Form2.resources
+C:\Users\STUDENT.CL2-PC32\Downloads\inter-prog-finals-main\inter-prog-finals-main\finals-main\finals-main\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.Form4.resources
+C:\Users\STUDENT.CL2-PC32\Downloads\inter-prog-finals-main\inter-prog-finals-main\finals-main\finals-main\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.Properties.Resources.resources
+C:\Users\STUDENT.CL2-PC32\Downloads\inter-prog-finals-main\inter-prog-finals-main\finals-main\finals-main\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.Register.resources
+C:\Users\STUDENT.CL2-PC32\Downloads\inter-prog-finals-main\inter-prog-finals-main\finals-main\finals-main\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.csproj.GenerateResource.cache
+C:\Users\STUDENT.CL2-PC32\Downloads\inter-prog-finals-main\inter-prog-finals-main\finals-main\finals-main\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENT.CL2-PC32\Downloads\inter-prog-finals-main\inter-prog-finals-main\finals-main\finals-main\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.AssemblyInfoInputs.cache
+C:\Users\STUDENT.CL2-PC32\Downloads\inter-prog-finals-main\inter-prog-finals-main\finals-main\finals-main\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.AssemblyInfo.cs
+C:\Users\STUDENT.CL2-PC32\Downloads\inter-prog-finals-main\inter-prog-finals-main\finals-main\finals-main\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT.CL2-PC32\Downloads\inter-prog-finals-main\inter-prog-finals-main\finals-main\finals-main\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\WinForms.BA630A35.Up2Date
+C:\Users\STUDENT.CL2-PC32\Downloads\inter-prog-finals-main\inter-prog-finals-main\finals-main\finals-main\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.dll
+C:\Users\STUDENT.CL2-PC32\Downloads\inter-prog-finals-main\inter-prog-finals-main\finals-main\finals-main\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\refint\WinFormsApp7.dll
+C:\Users\STUDENT.CL2-PC32\Downloads\inter-prog-finals-main\inter-prog-finals-main\finals-main\finals-main\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.pdb
+C:\Users\STUDENT.CL2-PC32\Downloads\inter-prog-finals-main\inter-prog-finals-main\finals-main\finals-main\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.genruntimeconfig.cache
+C:\Users\STUDENT.CL2-PC32\Downloads\inter-prog-finals-main\inter-prog-finals-main\finals-main\finals-main\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\ref\WinFormsApp7.dll
+C:\Users\ADMIN\Downloads\nba-finals-main\nba-finals-main\inter-prog-finals-main\inter-prog-finals-main\finals-main\finals-main\WinFormsApp7\WinFormsApp7\bin\Debug\net8.0-windows\WinFormsApp7.exe
+C:\Users\ADMIN\Downloads\nba-finals-main\nba-finals-main\inter-prog-finals-main\inter-prog-finals-main\finals-main\finals-main\WinFormsApp7\WinFormsApp7\bin\Debug\net8.0-windows\WinFormsApp7.deps.json
+C:\Users\ADMIN\Downloads\nba-finals-main\nba-finals-main\inter-prog-finals-main\inter-prog-finals-main\finals-main\finals-main\WinFormsApp7\WinFormsApp7\bin\Debug\net8.0-windows\WinFormsApp7.runtimeconfig.json
+C:\Users\ADMIN\Downloads\nba-finals-main\nba-finals-main\inter-prog-finals-main\inter-prog-finals-main\finals-main\finals-main\WinFormsApp7\WinFormsApp7\bin\Debug\net8.0-windows\WinFormsApp7.dll
+C:\Users\ADMIN\Downloads\nba-finals-main\nba-finals-main\inter-prog-finals-main\inter-prog-finals-main\finals-main\finals-main\WinFormsApp7\WinFormsApp7\bin\Debug\net8.0-windows\WinFormsApp7.pdb
+C:\Users\ADMIN\Downloads\nba-finals-main\nba-finals-main\inter-prog-finals-main\inter-prog-finals-main\finals-main\finals-main\WinFormsApp7\WinFormsApp7\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\ADMIN\Downloads\nba-finals-main\nba-finals-main\inter-prog-finals-main\inter-prog-finals-main\finals-main\finals-main\WinFormsApp7\WinFormsApp7\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\ADMIN\Downloads\nba-finals-main\nba-finals-main\inter-prog-finals-main\inter-prog-finals-main\finals-main\finals-main\WinFormsApp7\WinFormsApp7\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\ADMIN\Downloads\nba-finals-main\nba-finals-main\inter-prog-finals-main\inter-prog-finals-main\finals-main\finals-main\WinFormsApp7\WinFormsApp7\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\ADMIN\Downloads\nba-finals-main\nba-finals-main\inter-prog-finals-main\inter-prog-finals-main\finals-main\finals-main\WinFormsApp7\WinFormsApp7\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\ADMIN\Downloads\nba-finals-main\nba-finals-main\inter-prog-finals-main\inter-prog-finals-main\finals-main\finals-main\WinFormsApp7\WinFormsApp7\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\ADMIN\Downloads\nba-finals-main\nba-finals-main\inter-prog-finals-main\inter-prog-finals-main\finals-main\finals-main\WinFormsApp7\WinFormsApp7\bin\Debug\net8.0-windows\NuGet.Frameworks.dll
+C:\Users\ADMIN\Downloads\nba-finals-main\nba-finals-main\inter-prog-finals-main\inter-prog-finals-main\finals-main\finals-main\WinFormsApp7\WinFormsApp7\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\ADMIN\Downloads\nba-finals-main\nba-finals-main\inter-prog-finals-main\inter-prog-finals-main\finals-main\finals-main\WinFormsApp7\WinFormsApp7\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\ADMIN\Downloads\nba-finals-main\nba-finals-main\inter-prog-finals-main\inter-prog-finals-main\finals-main\finals-main\WinFormsApp7\WinFormsApp7\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\ADMIN\Downloads\nba-finals-main\nba-finals-main\inter-prog-finals-main\inter-prog-finals-main\finals-main\finals-main\WinFormsApp7\WinFormsApp7\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\ADMIN\Downloads\nba-finals-main\nba-finals-main\inter-prog-finals-main\inter-prog-finals-main\finals-main\finals-main\WinFormsApp7\WinFormsApp7\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\ADMIN\Downloads\nba-finals-main\nba-finals-main\inter-prog-finals-main\inter-prog-finals-main\finals-main\finals-main\WinFormsApp7\WinFormsApp7\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\ADMIN\Downloads\nba-finals-main\nba-finals-main\inter-prog-finals-main\inter-prog-finals-main\finals-main\finals-main\WinFormsApp7\WinFormsApp7\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\ADMIN\Downloads\nba-finals-main\nba-finals-main\inter-prog-finals-main\inter-prog-finals-main\finals-main\finals-main\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\nba-finals-main\nba-finals-main\inter-prog-finals-main\inter-prog-finals-main\finals-main\finals-main\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.Arkanoid.resources
+C:\Users\ADMIN\Downloads\nba-finals-main\nba-finals-main\inter-prog-finals-main\inter-prog-finals-main\finals-main\finals-main\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.Form1.resources
+C:\Users\ADMIN\Downloads\nba-finals-main\nba-finals-main\inter-prog-finals-main\inter-prog-finals-main\finals-main\finals-main\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.Form2.resources
+C:\Users\ADMIN\Downloads\nba-finals-main\nba-finals-main\inter-prog-finals-main\inter-prog-finals-main\finals-main\finals-main\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.Form4.resources
+C:\Users\ADMIN\Downloads\nba-finals-main\nba-finals-main\inter-prog-finals-main\inter-prog-finals-main\finals-main\finals-main\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.Properties.Resources.resources
+C:\Users\ADMIN\Downloads\nba-finals-main\nba-finals-main\inter-prog-finals-main\inter-prog-finals-main\finals-main\finals-main\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.Register.resources
+C:\Users\ADMIN\Downloads\nba-finals-main\nba-finals-main\inter-prog-finals-main\inter-prog-finals-main\finals-main\finals-main\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.csproj.GenerateResource.cache
+C:\Users\ADMIN\Downloads\nba-finals-main\nba-finals-main\inter-prog-finals-main\inter-prog-finals-main\finals-main\finals-main\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Downloads\nba-finals-main\nba-finals-main\inter-prog-finals-main\inter-prog-finals-main\finals-main\finals-main\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Downloads\nba-finals-main\nba-finals-main\inter-prog-finals-main\inter-prog-finals-main\finals-main\finals-main\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.AssemblyInfo.cs
+C:\Users\ADMIN\Downloads\nba-finals-main\nba-finals-main\inter-prog-finals-main\inter-prog-finals-main\finals-main\finals-main\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\nba-finals-main\nba-finals-main\inter-prog-finals-main\inter-prog-finals-main\finals-main\finals-main\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\WinForms.BA630A35.Up2Date
+C:\Users\ADMIN\Downloads\nba-finals-main\nba-finals-main\inter-prog-finals-main\inter-prog-finals-main\finals-main\finals-main\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.dll
+C:\Users\ADMIN\Downloads\nba-finals-main\nba-finals-main\inter-prog-finals-main\inter-prog-finals-main\finals-main\finals-main\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\refint\WinFormsApp7.dll
+C:\Users\ADMIN\Downloads\nba-finals-main\nba-finals-main\inter-prog-finals-main\inter-prog-finals-main\finals-main\finals-main\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.pdb
+C:\Users\ADMIN\Downloads\nba-finals-main\nba-finals-main\inter-prog-finals-main\inter-prog-finals-main\finals-main\finals-main\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.genruntimeconfig.cache
+C:\Users\ADMIN\Downloads\nba-finals-main\nba-finals-main\inter-prog-finals-main\inter-prog-finals-main\finals-main\finals-main\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\ref\WinFormsApp7.dll
+C:\Users\ADMIN\Downloads\nba-finals-main\nba-finals-main\inter-prog-finals-main\inter-prog-finals-main\finals-main\finals-main\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.Settings.resources
+C:\Users\ADMIN\Downloads\nba-finals-main\nba-finals-main\inter-prog-finals-main\inter-prog-finals-main\finals-main\finals-main\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.Rankings.resources
+C:\Users\ADMIN\Downloads\nba-finals-main\nba-finals-main\inter-prog-finals-main\inter-prog-finals-main\finals-main\finals-main\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.Shop.resources
+C:\Users\ADMIN\Downloads\prog-finals-main\prog-finals-main\WinFormsApp7\WinFormsApp7\bin\Debug\net8.0-windows\WinFormsApp7.exe
+C:\Users\ADMIN\Downloads\prog-finals-main\prog-finals-main\WinFormsApp7\WinFormsApp7\bin\Debug\net8.0-windows\WinFormsApp7.deps.json
+C:\Users\ADMIN\Downloads\prog-finals-main\prog-finals-main\WinFormsApp7\WinFormsApp7\bin\Debug\net8.0-windows\WinFormsApp7.runtimeconfig.json
+C:\Users\ADMIN\Downloads\prog-finals-main\prog-finals-main\WinFormsApp7\WinFormsApp7\bin\Debug\net8.0-windows\WinFormsApp7.dll
+C:\Users\ADMIN\Downloads\prog-finals-main\prog-finals-main\WinFormsApp7\WinFormsApp7\bin\Debug\net8.0-windows\WinFormsApp7.pdb
+C:\Users\ADMIN\Downloads\prog-finals-main\prog-finals-main\WinFormsApp7\WinFormsApp7\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\ADMIN\Downloads\prog-finals-main\prog-finals-main\WinFormsApp7\WinFormsApp7\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\ADMIN\Downloads\prog-finals-main\prog-finals-main\WinFormsApp7\WinFormsApp7\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\ADMIN\Downloads\prog-finals-main\prog-finals-main\WinFormsApp7\WinFormsApp7\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\ADMIN\Downloads\prog-finals-main\prog-finals-main\WinFormsApp7\WinFormsApp7\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\ADMIN\Downloads\prog-finals-main\prog-finals-main\WinFormsApp7\WinFormsApp7\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\ADMIN\Downloads\prog-finals-main\prog-finals-main\WinFormsApp7\WinFormsApp7\bin\Debug\net8.0-windows\NuGet.Frameworks.dll
+C:\Users\ADMIN\Downloads\prog-finals-main\prog-finals-main\WinFormsApp7\WinFormsApp7\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\ADMIN\Downloads\prog-finals-main\prog-finals-main\WinFormsApp7\WinFormsApp7\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\ADMIN\Downloads\prog-finals-main\prog-finals-main\WinFormsApp7\WinFormsApp7\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\ADMIN\Downloads\prog-finals-main\prog-finals-main\WinFormsApp7\WinFormsApp7\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\ADMIN\Downloads\prog-finals-main\prog-finals-main\WinFormsApp7\WinFormsApp7\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\ADMIN\Downloads\prog-finals-main\prog-finals-main\WinFormsApp7\WinFormsApp7\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\ADMIN\Downloads\prog-finals-main\prog-finals-main\WinFormsApp7\WinFormsApp7\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\ADMIN\Downloads\prog-finals-main\prog-finals-main\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\prog-finals-main\prog-finals-main\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.Arkanoid.resources
+C:\Users\ADMIN\Downloads\prog-finals-main\prog-finals-main\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.Form2.resources
+C:\Users\ADMIN\Downloads\prog-finals-main\prog-finals-main\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.Form4.resources
+C:\Users\ADMIN\Downloads\prog-finals-main\prog-finals-main\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.Properties.Resources.resources
+C:\Users\ADMIN\Downloads\prog-finals-main\prog-finals-main\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.Rankings.resources
+C:\Users\ADMIN\Downloads\prog-finals-main\prog-finals-main\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.Register.resources
+C:\Users\ADMIN\Downloads\prog-finals-main\prog-finals-main\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.Settings.resources
+C:\Users\ADMIN\Downloads\prog-finals-main\prog-finals-main\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.csproj.GenerateResource.cache
+C:\Users\ADMIN\Downloads\prog-finals-main\prog-finals-main\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Downloads\prog-finals-main\prog-finals-main\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Downloads\prog-finals-main\prog-finals-main\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.AssemblyInfo.cs
+C:\Users\ADMIN\Downloads\prog-finals-main\prog-finals-main\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\prog-finals-main\prog-finals-main\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\WinForms.BA630A35.Up2Date
+C:\Users\ADMIN\Downloads\prog-finals-main\prog-finals-main\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.dll
+C:\Users\ADMIN\Downloads\prog-finals-main\prog-finals-main\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\refint\WinFormsApp7.dll
+C:\Users\ADMIN\Downloads\prog-finals-main\prog-finals-main\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.pdb
+C:\Users\ADMIN\Downloads\prog-finals-main\prog-finals-main\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.genruntimeconfig.cache
+C:\Users\ADMIN\Downloads\prog-finals-main\prog-finals-main\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\ref\WinFormsApp7.dll
+C:\Users\ADMIN\Downloads\prog-database-finished-main\prog-database-finished-main\prog-database finished\WinFormsApp7\bin\Debug\net8.0-windows\WinFormsApp7.exe
+C:\Users\ADMIN\Downloads\prog-database-finished-main\prog-database-finished-main\prog-database finished\WinFormsApp7\bin\Debug\net8.0-windows\WinFormsApp7.deps.json
+C:\Users\ADMIN\Downloads\prog-database-finished-main\prog-database-finished-main\prog-database finished\WinFormsApp7\bin\Debug\net8.0-windows\WinFormsApp7.runtimeconfig.json
+C:\Users\ADMIN\Downloads\prog-database-finished-main\prog-database-finished-main\prog-database finished\WinFormsApp7\bin\Debug\net8.0-windows\WinFormsApp7.dll
+C:\Users\ADMIN\Downloads\prog-database-finished-main\prog-database-finished-main\prog-database finished\WinFormsApp7\bin\Debug\net8.0-windows\WinFormsApp7.pdb
+C:\Users\ADMIN\Downloads\prog-database-finished-main\prog-database-finished-main\prog-database finished\WinFormsApp7\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\ADMIN\Downloads\prog-database-finished-main\prog-database-finished-main\prog-database finished\WinFormsApp7\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\ADMIN\Downloads\prog-database-finished-main\prog-database-finished-main\prog-database finished\WinFormsApp7\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\ADMIN\Downloads\prog-database-finished-main\prog-database-finished-main\prog-database finished\WinFormsApp7\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\ADMIN\Downloads\prog-database-finished-main\prog-database-finished-main\prog-database finished\WinFormsApp7\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\ADMIN\Downloads\prog-database-finished-main\prog-database-finished-main\prog-database finished\WinFormsApp7\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\ADMIN\Downloads\prog-database-finished-main\prog-database-finished-main\prog-database finished\WinFormsApp7\bin\Debug\net8.0-windows\NuGet.Frameworks.dll
+C:\Users\ADMIN\Downloads\prog-database-finished-main\prog-database-finished-main\prog-database finished\WinFormsApp7\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\ADMIN\Downloads\prog-database-finished-main\prog-database-finished-main\prog-database finished\WinFormsApp7\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\ADMIN\Downloads\prog-database-finished-main\prog-database-finished-main\prog-database finished\WinFormsApp7\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\ADMIN\Downloads\prog-database-finished-main\prog-database-finished-main\prog-database finished\WinFormsApp7\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\ADMIN\Downloads\prog-database-finished-main\prog-database-finished-main\prog-database finished\WinFormsApp7\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\ADMIN\Downloads\prog-database-finished-main\prog-database-finished-main\prog-database finished\WinFormsApp7\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\ADMIN\Downloads\prog-database-finished-main\prog-database-finished-main\prog-database finished\WinFormsApp7\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\ADMIN\Downloads\prog-database-finished-main\prog-database-finished-main\prog-database finished\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\prog-database-finished-main\prog-database-finished-main\prog-database finished\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.Arkanoid.resources
+C:\Users\ADMIN\Downloads\prog-database-finished-main\prog-database-finished-main\prog-database finished\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.Form2.resources
+C:\Users\ADMIN\Downloads\prog-database-finished-main\prog-database-finished-main\prog-database finished\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.Form4.resources
+C:\Users\ADMIN\Downloads\prog-database-finished-main\prog-database-finished-main\prog-database finished\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.Properties.Resources.resources
+C:\Users\ADMIN\Downloads\prog-database-finished-main\prog-database-finished-main\prog-database finished\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.Rankings.resources
+C:\Users\ADMIN\Downloads\prog-database-finished-main\prog-database-finished-main\prog-database finished\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.Register.resources
+C:\Users\ADMIN\Downloads\prog-database-finished-main\prog-database-finished-main\prog-database finished\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.Settings.resources
+C:\Users\ADMIN\Downloads\prog-database-finished-main\prog-database-finished-main\prog-database finished\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.csproj.GenerateResource.cache
+C:\Users\ADMIN\Downloads\prog-database-finished-main\prog-database-finished-main\prog-database finished\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Downloads\prog-database-finished-main\prog-database-finished-main\prog-database finished\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Downloads\prog-database-finished-main\prog-database-finished-main\prog-database finished\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.AssemblyInfo.cs
+C:\Users\ADMIN\Downloads\prog-database-finished-main\prog-database-finished-main\prog-database finished\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\prog-database-finished-main\prog-database-finished-main\prog-database finished\WinFormsApp7\obj\Debug\net8.0-windows\WinForms.BA630A35.Up2Date
+C:\Users\ADMIN\Downloads\prog-database-finished-main\prog-database-finished-main\prog-database finished\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.dll
+C:\Users\ADMIN\Downloads\prog-database-finished-main\prog-database-finished-main\prog-database finished\WinFormsApp7\obj\Debug\net8.0-windows\refint\WinFormsApp7.dll
+C:\Users\ADMIN\Downloads\prog-database-finished-main\prog-database-finished-main\prog-database finished\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.pdb
+C:\Users\ADMIN\Downloads\prog-database-finished-main\prog-database-finished-main\prog-database finished\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.genruntimeconfig.cache
+C:\Users\ADMIN\Downloads\prog-database-finished-main\prog-database-finished-main\prog-database finished\WinFormsApp7\obj\Debug\net8.0-windows\ref\WinFormsApp7.dll
